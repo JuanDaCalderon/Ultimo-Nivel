@@ -1,0 +1,11 @@
+@import './config/config';
+
+h1{
+    color: $InfoColor;
+}
+h2{
+    color: $ErrorColor;
+}
+h3{
+    color: $SuccesColor;
+}
